@@ -2,6 +2,9 @@
 
 
 
+ionic学习教程 http://www.runoob.com/ionic/
+
+
 
 cordova + ionic 
 
